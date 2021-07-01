@@ -256,7 +256,7 @@ List of VueJS Interview Questions
 3.  ### What are the lifecycle methods of VueJS?
     Lifecycle hooks are a window into how the library you’re using works behind-the-scenes. By using these hooks, you will know when your component is created, added to the DOM, updated, or destroyed. Let's look at lifecycle diagram before going to each lifecycle hook in detail,
 
-    <img src="https://github.com/AkkiParekh/vuejs-interview-questions-cracker/blob/master/images/vuelifecycle.png" width="400" height="800">
+    <img src="https://github.com/AkkiParekh/vuejs-interview-questions-cracker/blob/main/images/vuelifecycle.png" width="400" height="800">
 
     1. **Creation(Initialization):**
         Creation Hooks allow you to perform actions before your component has even been added to the DOM. You need to use these hooks if you need to set things up in your component both during client rendering and server rendering. Unlike other hooks, creation hooks are also run during server-side rendering.
@@ -2360,7 +2360,7 @@ List of VueJS Interview Questions
 
      The DevTools plugins can be used as shown in the below snapshot,
 
-     <img src="https://github.com/AkkiParekh/vuejs-interview-questions-cracker/blob/master/images/DevTools.png" width="700" height="500">
+     <img src="https://github.com/AkkiParekh/vuejs-interview-questions-cracker/blob/main/images/DevTools.png" width="700" height="500">
 
      **Note:**
      1. If the page uses a production/minified build of Vue.js, devtools inspection is disabled by default so the Vue pane won't show up.
@@ -2531,7 +2531,7 @@ List of VueJS Interview Questions
 103. ### How do you represent one way data flow in vuex?
      Vue.js has a one-way data flow model, through the props property. The same concept can be represented in vuex has below,
 
-     <img src="https://github.com/AkkiParekh/vuejs-interview-questions-cracker/blob/master/images/flow.png" width="400" height="500">
+     <img src="https://github.com/AkkiParekh/vuejs-interview-questions-cracker/blob/main/images/flow.png" width="400" height="500">
 
      **[⬆ Back to Top](#table-of-contents)**
 
@@ -3051,7 +3051,7 @@ List of VueJS Interview Questions
      3. Asynchronous logic should be encapsulated in, and can be composed with actions.
 
      The project structure for any non-trivial application would be as below,
-     <img src="https://github.com/AkkiParekh/vuejs-interview-questions-cracker/blob/master/images/vuex-app-structure.png" width="700" height="500">
+     <img src="https://github.com/AkkiParekh/vuejs-interview-questions-cracker/blob/main/images/vuex-app-structure.png" width="700" height="500">
 
      **[⬆ Back to Top](#table-of-contents)**
 
@@ -4040,18 +4040,18 @@ List of VueJS Interview Questions
 
      The default preset prompt would be as below,
 
-        <img src="https://github.com/AkkiParekh/vuejs-interview-questions-cracker/blob/master/images/cli-default-presets.png" width="400" height="500">
+        <img src="https://github.com/AkkiParekh/vuejs-interview-questions-cracker/blob/main/images/cli-default-presets.png" width="400" height="500">
 
      and the manual select features would be as below,
 
-        <img src="https://github.com/AkkiParekh/vuejs-interview-questions-cracker/blob/master/images/cli-manual-features.png" width="400" height="500">
+        <img src="https://github.com/AkkiParekh/vuejs-interview-questions-cracker/blob/main/images/cli-manual-features.png" width="400" height="500">
 
      **[⬆ Back to Top](#table-of-contents)**
 
 185. ### How do you create project using GUI?
      You can also create and manage projects using a graphical interface with the `vue ui` command. Once you apply this command, it opens a browser window with a GUI that guides you through the project creation process.
 
-        <img src="https://github.com/AkkiParekh/vuejs-interview-questions-cracker/blob/master/images/cli-gui.png" width="400" height="500">
+        <img src="https://github.com/AkkiParekh/vuejs-interview-questions-cracker/blob/main/images/cli-gui.png" width="400" height="500">
 
      **[⬆ Back to Top](#table-of-contents)**
 
